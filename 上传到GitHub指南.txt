@@ -1,0 +1,45 @@
+如何将 daily_stock_analysis 项目上传到您的 GitHub 仓库
+
+您的 GitHub 仓库地址：https://github.com/Mfai0417/daily_stock_analysis
+
+步骤 1：打开 GitHub 仓库页面
+1. 在浏览器中打开：https://github.com/Mfai0417/daily_stock_analysis
+2. 确保您已登录 GitHub 账户 Mfai0417
+
+步骤 2：上传文件
+1. 在仓库页面，点击 "Add file" 按钮（绿色按钮）
+2. 选择 "Upload files"
+3. 打开文件资源管理器，导航到：C:\Users\Mfai\Desktop\daily_stock_analysis-main
+4. 选择该文件夹中的所有文件和文件夹（按 Ctrl+A 全选）
+5. 将文件拖放到 GitHub 页面的上传区域
+6. 在页面底部填写提交信息（例如："Initial commit: Add daily stock analysis project"）
+7. 点击 "Commit changes" 按钮
+
+步骤 3：验证上传
+1. 上传完成后，刷新仓库页面
+2. 您应该能看到所有文件和文件夹
+3. 项目现在已部署在您的 GitHub 账户上
+
+注意事项：
+1. 确保上传所有文件，包括隐藏文件（如 .gitignore）
+2. 如果文件较多，上传可能需要一些时间
+3. 上传后，您可以通过以下 URL 访问项目：
+   - 仓库主页：https://github.com/Mfai0417/daily_stock_analysis
+   - 克隆地址：https://github.com/Mfai0417/daily_stock_analysis.git
+
+项目结构说明：
+- .github/：GitHub Actions 工作流
+- api/：API 相关代码
+- apps/：应用程序
+- bot/：机器人相关代码
+- data_provider/：数据提供者
+- docker/：Docker 配置
+- docs/：文档
+- patch/：补丁文件
+- scripts/：脚本
+- sources/：源代码
+- src/：主源代码
+- tests/：测试文件
+- 各种配置文件：.env.example, requirements.txt, pyproject.toml 等
+
+完成以上步骤后，您的 daily_stock_analysis 项目就成功部署到 GitHub 了！
