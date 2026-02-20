@@ -28,7 +28,7 @@ jobs:
         run: |
           echo "開始每日股票分析..."
           # 呢度可以放你嘅分析腳本代碼，例如：
-          # python main.py
+         python main.py
           echo "分析完成，乖離率閾值: $BIAS_THRESHOLD%"
 
       - name: 上傳報告
